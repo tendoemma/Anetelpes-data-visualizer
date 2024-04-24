@@ -19,7 +19,14 @@ This project is a web application that visualizes data related to antelope speci
 - **Bundler**: Vite
 
 
-
+## Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-repo.git
+    ```
+    ```bash
+    cd your-repo
+    ```
+    
 ## Launching the Node Server
 
 In order to set the Node.js server ready, you can integrate it with the frontend by following these steps:
@@ -38,19 +45,13 @@ In order to set the Node.js server ready, you can integrate it with the frontend
 ## Launching the React app 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo
-    ```
-
-3. Install the dependencies:
+1. Install the dependencies:
     ```bash
     npm install
+    ```
+2. Start the React app:
+    ```bash
+    npm run dev
     ```
 
 4. Start the development server:
