@@ -53,11 +53,4 @@ To get started with this project, follow these steps:
     ```bash
     npm run dev
     ```
-
-4. Start the development server:
-    ```bash
-    npm run dev
-    ```
-
-
 Now you have both the React app and the Node server running simultaneously.
